@@ -47,7 +47,7 @@ This project uses Jest to ensure the merge function behaves correctly under vari
 # Setup Instructions
 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/B0wiz/pre-interview-merge-sort.git
 cd pre-interview-merge-sort
 ```
 
